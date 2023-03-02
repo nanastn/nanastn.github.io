@@ -664,7 +664,7 @@ li {
 }
 
 .post-author a:after {
-    width: 2px;
+    width: 0px;
     height: 60%;
     content: '';
     position: absolute;
